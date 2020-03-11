@@ -18,5 +18,5 @@ The most important file here is the `static.json` file, which is used by Heroku 
 
 After adding that file, you should be able to simply follow the instructions in this [blog post](https://blog.heroku.com/deploying-react-with-zero-configuration) to deploy to Heroku.
 
-More general information about create-react-app deployments: https://facebook.github.io/create-react-app/docs/deployment
-More general information about create-react-app buildpack in Heroku: https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack
+* More general information about create-react-app deployments: https://facebook.github.io/create-react-app/docs/deployment
+* More general information about create-react-app buildpack in Heroku: https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack
